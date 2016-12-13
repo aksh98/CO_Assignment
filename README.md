@@ -1,3 +1,6 @@
 #Computer Organisation Assignment
 
-This is based on Interrupts, Floating point addition/subtraction/Multiplication.
+Questions are based on 
+- Interrupts
+- IEEE-754 single and double precision format.
+- Floating point Addition/Subtraction/Multiplication.
